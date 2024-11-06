@@ -39,7 +39,7 @@ Une fois le fichier téléchargé, décompressez-le. Pour cela,  tapez dans le t
 
 ### 3/ Installer la texlive
 
-1. Placez-vous dans le dossier que vous avez décompressé par la commande `cd` suivie du nom du dossier (`install-tl-20230926`; le nombre peut être différent). Vous pouvez utiliser la touche Tab pour activer l'autocomplétion du nom du dossier.
+1. Placez-vous dans le dossier que vous avez décompressé par la commande `cd` suivie du nom du dossier (`install-tl-20241106`; le nombre peut être différent). Vous pouvez utiliser la touche Tab pour activer l'autocomplétion du nom du dossier.
 2. Tapez `sudo perl install-tl`
 3. Si vous avez de la place sur votre ordinateur et une bonne connexion internet: répondez `i` ("start installation to hard disk"). **Cette option est à privilégier**
 4. Si votre connexion est mauvaise, ou que vous avez trop peu de place, vous pouvez au choix:
