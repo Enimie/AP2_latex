@@ -11,8 +11,8 @@ Vous trouverez sur ce dépôt le contenu pédagogique du cours *Outils numériqu
 | ---- | -------- | --------- |
 | 8 novembre 2024  | 13h30-15h30 | Notions de base| 
 | 15 novembre 2024 | 13h30-15h30 | Mettre en forme, mettre en sens|
-| 22 novembre 2024 | 13h30-15h30 | Citations bibliographiques: Zotero et Biblatex -- Images, tableaux et graphiques  |
-| 6 décembre 2024     | 9h30-11h30  | Édition scientifique en LaTeX|
+| 22 novembre 2024 | 13h30-15h30 |  Images, tableaux et graphiques  |
+| 6 décembre 2024     | 9h30-11h30  | Citations bibliographiques: Zotero et Biblatex -- Édition scientifique en LaTeX|
 | 13 décembre 2024     | 9h30-11h30  | LaTeX et la thèse|
 
 
